@@ -1,0 +1,1 @@
+Projeto destinado a empresas de TI que queram implantar em seu ambiente de desnvolvimento, um buscador de codigo fonte que pode ser integrado a uma LPS, agilizando assim o processo de desenvolvimento.
